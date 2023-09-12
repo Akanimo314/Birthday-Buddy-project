@@ -1,4 +1,4 @@
-/* ============= GLOBAL CSS ===============
+/* = GLOBAL CSS =
 
 *,
 ::after,
@@ -255,7 +255,7 @@ ul {
 
 /* ============= PROJECT CSS =============== */
 
-/* optional overwrite */
+/* overwrite */
 
 /* /* body {
   background: var(--primary-100);
